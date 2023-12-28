@@ -1,1 +1,1 @@
-# Pushpa-Shrestha
+These are algorithms I used for simulating fluid flow in a flat plate  boundary layer. The simulated data is collected from Numerical Computing Center and processed at UTA. The python and fotran codes are used to train the data and analyze vortex features. 
